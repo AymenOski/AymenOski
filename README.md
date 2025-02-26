@@ -1,6 +1,5 @@
 # 💫 About Me:
 🔭 I’m currently working on web golang<br>🌱 I'm currently learning computer networking<br>⚡ Fun fact: I’m really good at this game!
-[![](https://visitcount.itsvg.in/api?id=AymenOski&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
@@ -18,5 +17,14 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AymenOski&icon=7&color=10)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AymenOski&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AymenOski&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AymenOski&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AymenOski&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
