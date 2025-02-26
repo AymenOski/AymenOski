@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on web golang<br>🌱 I'm currently learning computer networking<br>⚡ Fun fact: I’m really good at this game!
+[![](https://visitcount.itsvg.in/api?id=AymenOski&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
