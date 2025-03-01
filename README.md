@@ -2,6 +2,9 @@
 🔭 I’m currently working on web golang<br>🌱 I'm currently learning computer networking<br>⚡ Fun fact: I’m really good at this game!
 
 
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AymenOski&label=Profile%20views&color=0e75b6&style=flat" alt="AymenOski" /> </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aymenoski) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aymenazizi610@gmail.com) 
 
@@ -15,6 +18,3 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AymenOski&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AymenOski&label=Profile%20views&color=0e75b6&style=flat" alt="AymenOski" /> </p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
