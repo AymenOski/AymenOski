@@ -4,7 +4,7 @@
 
 ---
 ## :globe_with_meridians: Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AymenOskii)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymenoski-i-5532762b7/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AymenOski&label=Profile%20views&color=0e75b6&style=flat" alt="AymenOski" /> </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
