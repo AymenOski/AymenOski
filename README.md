@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java Script quests<br>🌱 I'm currently learning Java Script<br>⚡ Fun fact: I’m really good at this game!
+🔭 I’m currently working on Java Script Projects<br>🌱 I'm currently learning Java Script<br>⚡ Fun fact: I’m really good at this game!
 
 
 ## :globe_with_meridians: Socials:
